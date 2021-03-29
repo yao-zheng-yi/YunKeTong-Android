@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MainBtmTabBtn">
+        <attr name="alphaNum" format="float"/>
+        <attr name="checked" format="boolean"/>
+        <attr name="iconChecked" format="reference"/>
+        <attr name="iconNoChecked" format="reference"/>
+        <attr name="textBtm" format="reference"/>
+    </declare-styleable>
+</resources>
